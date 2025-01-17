@@ -12,7 +12,8 @@ Shift States:
 
 <ins>**Installing:**</ins> The names like AMD and INTEL for the MSI packages aren't actually only for that processor. For example I have an intel and only the one labeled AMD was compatible. So just try all the MSI's and then try the exe. If you're on MAC or Linux try to find a custom keyboard application that supports KLC format. *The exe is only meant to be for windows machines*
 
-<ins>**Matra Patch:**</ins> Make sure to download and run the AHK executable to fix things like ੳੋ and ਅਾ. I would recommend adding it to startup apps. If you do not, you will have to run it every single time your computer starts.
+<ins>**Matra Patch:**</ins> Make sure to download and run the AHK executable to fix things like ੳੋ and ਅਾ. This incorrect rendering is found in almost every program that renders gurmukhi.\
+I would recommend adding it to startup apps. If you do not, you will have to run it every single time your computer starts.
 
   - **How to add it to startup:** right click while holding shift on the executable, click create shortcut, copy with ctrl+c. Hit windows +r and type shell:startup, hit enter. Paste in the shortcut with ctrl+v.
 

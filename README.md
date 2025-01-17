@@ -1,6 +1,6 @@
-# ਅਨਮੋਲ ਲਿਪੀ (Anmol lipI)
+# ਅਨਮੋਲ ਲਿਪੀ (Anmol lip`I)
 
-I made this Punjabi(Gurmukhi) keyboard and figured I may as well share it. Here's some images. I used the name ਅਨਮੋਲ ਲਿਪੀ (Anmol lipI) because that's how it's been referenced online. ¯\_(ツ)_/¯
+I made this Punjabi(Gurmukhi) keyboard and figured I may as well share it. Here's some images. I used the name ਅਨਮੋਲ ਲਿਪੀ (Anmol lip`I) because that's how it's been referenced online. ¯\_(ツ)_/¯
  
 Default States:
 

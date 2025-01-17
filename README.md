@@ -18,3 +18,7 @@ Shift States:
   - **How to add it to startup:** right click while holding shift on the executable, click create shortcut, copy with ctrl+c. Hit windows +r and type shell:startup, hit enter. Paste in the shortcut with ctrl+v.
 
 <ins>**Source:**</ins> If you wanna open the source file without downloading KLC, it'll work and open as a text file. The AHK source file will open with any text editor as well. 
+
+AHK Offical Download (run ahk's directly; compile .ahk's to .exe's): https://autohotkey.com/download/ahk-v2.exe
+
+KLC Official Download (gives a GUI to the .klc; used to compile the .klc): https://download.microsoft.com/download/6/f/5/6f5ce43a-e892-4fd1-b9a6-1a0cbb64e6e2/MSKLC.exe 

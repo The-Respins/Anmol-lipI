@@ -1,7 +1,9 @@
 # ਅਨਮੋਲ ਲਿਪੀ (Anmol lip`I)
 
+
 I made this Punjabi(Gurmukhi) keyboard and figured I may as well share it. Here's some images. I used the name ਅਨਮੋਲ ਲਿਪੀ (Anmol lip`I) because that's how it's been referenced online. ¯\_(ツ)_/¯
- 
+ [Discussion (Click)](https://www.reddit.com/r/punjabi/comments/1hqlb9n/anmol_lippi_keyboard_for_your_convenience/)
+
 Default States:
 
 ![layout in deafault state](https://github.com/The-Respins/Anmol-lipI/blob/main/Keyboard%20Layout%20Images/Default%20States.png)
@@ -23,4 +25,3 @@ AHK Offical Download (run ahk's directly; compile .ahk's to .exe's): https://aut
 
 KLC Official Download (gives a GUI to the .klc; used to compile the .klc): https://download.microsoft.com/download/6/f/5/6f5ce43a-e892-4fd1-b9a6-1a0cbb64e6e2/MSKLC.exe 
 
-[Discussion (Click)](https://www.reddit.com/r/punjabi/comments/1hqlb9n/anmol_lippi_keyboard_for_your_convenience/)

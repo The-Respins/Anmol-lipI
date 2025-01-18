@@ -22,3 +22,5 @@ I would recommend adding it to startup apps. If you do not, you will have to run
 AHK Offical Download (run ahk's directly; compile .ahk's to .exe's): https://autohotkey.com/download/ahk-v2.exe
 
 KLC Official Download (gives a GUI to the .klc; used to compile the .klc): https://download.microsoft.com/download/6/f/5/6f5ce43a-e892-4fd1-b9a6-1a0cbb64e6e2/MSKLC.exe 
+
+[Discussion (Click)](https://www.reddit.com/r/punjabi/comments/1hqlb9n/anmol_lippi_keyboard_for_your_convenience/)

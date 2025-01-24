@@ -1,10 +1,12 @@
 
 Normally you can uninstall a keyboard using the following method:
 
-    Go to apps and installed apps
+    Go to apps > installed apps
     Find the keyboard and uninstall it
-    Then try to add the keyboard to your language again
 
-    IF THE KEYBOARD IS NOT UPDATED IT MAY BE BECAUSE THE DLL IS IN CACHE
+    Try to add the keyboard to your language again
+    IF THE KEYBOARD IS STILL THERE IT MAY BE BECAUSE THE DLL IS IN CACHE
     You can either figure out how to manually delete it, or take the simple route
     and just restart the computer. 
+
+    

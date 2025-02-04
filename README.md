@@ -1,8 +1,9 @@
-# ਅਨਮੋਲ ਲਿਪੀ (Anmol lip`I)
+# ਅਨਮੋਲ ਲਿਪੀ
 
+![English README](https://github.com/The-Respins/Anmol-lipI/blob/main/README-PN.md)
 
-I made this Punjabi(Gurmukhi) keyboard and figured I may as well share it. Here's some images. I used the name ਅਨਮੋਲ ਲਿਪੀ (Anmol lip`I) because that's how it's been referenced online. ¯\_(ツ)_/¯
- [Discussion (Click)](https://www.reddit.com/r/punjabi/comments/1hqlb9n/anmol_lippi_keyboard_for_your_convenience/)
+ਮੈ ਇਸ ਪੰਜਾਬੀ(ਗੁਰਮੁਖੀ) ਦਾ ਕੀਬੋਰਡ(keyboard) ਬਣਾਇਆ ਤੇ ਸੋਚਿਆ ਕਿ ਮੈਂ ਇਨੂੰ ਸਾਂਝਾ ਈ ਕਰ ਦਿਵਾਂ। ਮੈ "ਅਨਮੋਲ ਲਿਪੀ" ਦਾ ਨਾਮ ਰੱਖਿਆ ਕਿਉਂਕੇ ਆਨਲਾਇਨ(online) ਏਸ ਕੀਬੋਰਡ(keyboard) ਲੇਐਉਟ(layout) ਨੂੰ ਇਂਦਾ ਈ ਆਖਦੇ ਆਂ। ¯\_(ツ)_/¯
+ [ਵਿਚਾਰ: (ਕਲਿਕ(click) ਕਰੋ)](https://www.reddit.com/r/punjabi/comments/1hqlb9n/anmol_lippi_keyboard_for_your_convenience/)
 
 Default States:
 
@@ -12,16 +13,17 @@ Shift States:
 
 ![layout in shift state](https://github.com/The-Respins/Anmol-lipI/blob/main/Keyboard%20Layout%20Images/Shift%20States.png)
 
-<ins>**[Installing Keyboard:](https://github.com/The-Respins/Anmol-lipI/releases/tag/Keyboard-Installer)**</ins> The names like AMD and INTEL for the MSI packages aren't actually only for that processor. For example I have an intel and only the one labeled AMD was compatible. So just try all the MSI's and then try the exe. If you're on MAC or Linux try to find a custom keyboard application that supports KLC format. *The exe is only meant to be for windows machines*
+<ins>**[ਕੀਬੋਰਡ(Keyboard) ਇੰਸਟਾਲ(Install) ਲਈ:](https://github.com/The-Respins/Anmol-lipI/releases/tag/Keyboard-Installer)**</ins> ਪ੍ਰਾਸੈਸਰ(processor) ਦੇ ਨਾਮਾਂ(ਜਿੰਦਾ Intel, AMD, ect) ਜੇੜੇ MSI ਫ਼ਾਇਲਾਂ(files) ਤੇ ਲਿਖੇ, ਅਸਲ'ਚ ਸਰਿਫ਼ ਓਹ ਪ੍ਰਾਸੈਸਰਾਂ(processors) ਲਈ ਨਈ ਹਨ। ਉਦਾਰਹਨ ਵਜੋਂ, ਮੇਰੇ ਕੋਲ ਇੰਟਲ(Intel) ਦਾ ਪ੍ਰਾਸੈਸਰ(processor) ਹੈਗਾ, ਪਰ ਮੇਰੇ ਲਈ ਸਰਿਫ਼ AMD ਵਾਲਾ ਚਲਦਾ। ਪਹਿਲੋਂ ਸਾਰੇ MSI's ਚਲਾਕੇ ਦੇਖੋ, ਜੇ ਓਹ ਕੰਮ ਨਈ ਓਂਦੇ ਤੇ ਫ਼ੇਰ exe's ਚਲਾਓ। ਜੇ ਤੁਸੀ MAC ਯਾ ਲਿਨਿਕਸ(Linux) ਆਪ੍ਰੇਟਿੰਗ(operating) ਸਿਸਟਮਾਂ(systems) ਵਰਤਦੇ ਹਨ, ਫ਼ੇਰ ਕੋਈ ਕੀਬੋਰਡ(keyboard) ਐਪਲਿਕੇਸ਼ਨ(application) ਲਭੋ ਜੇੜਾ KLC ਫ਼ਾਇਲ(file) ਰੂਪ ਵਰਤ ਸਕੇ। ਜੇੜਾ ਐਕਸਿਕਿਯੂਟਬਲਾਂ(executables) ਹੈਗੇ, ਓਹ ਸਰਿਫ਼ ਵਿੰਦੋਜ਼(windows) ਨਾਲ ਚਲਦੇ।
 
-<ins>**[Matra Patch:](https://github.com/The-Respins/Anmol-lipI/releases/tag/Matra-Patch)**</ins> Make sure to download and run the AHK executable to fix things like ੳੋ and ਅਾ. This incorrect rendering is found in almost every program that renders gurmukhi.\
-I would recommend adding it to startup apps. If you do not, you will have to run it every single time your computer starts.
+<ins>**[ਮਾਤ੍ਰਾਂ ਪੈਚ(Patch):](https://github.com/The-Respins/Anmol-lipI/releases/tag/Matra-Patch)**</ins> AHK ਐਕਸਿਕਿਯੂਟਬਲ(executable) ਨੂਂ ਜ਼ਰੂਰ ਡੈਉਨਲੋਡ(download) ਕਰਕੇ ਚਲਾਉ, ਤਾਂ ਕੇ "ੳੋ" ਤੇ "ਅਾ"(ਸਾਰੇ ਅੱਖਰਾਂ ਮੁਹਾਰਨੀ ਦੀ ੧ ਲਕੀਰ ਵਿੱਚ) ਵਾਲੇ ਗਲਤੀਆਂ ਨਾ ਹੋਵੇ। ਏਹ ਗਲਤ ਰੈਂਡਰਿੰਗ(rendering) ਬਹੁਮਤ ਸਾਰੇ ਪ੍ਰੋਗ੍ਰੈਮਾਂ(programs) ਵਿੱਚ ਲਭੁਂਗੇ, ਜੇੜੇ ਗੁਰਮੁਖੀ ਨੂਂ ਰੈਂਡਰ(render) ਕਰ ਸਕਦੇ। 
+ਮੈ ਸਿਫ਼ਾਰਸ ਕਰਦਾ ਕਿ ਇਸ ਐਕਸਿਕਿਯੂਟਬਲ(executable) ਨੂੰ ਸਟਾਰਟਪ(startup) ਐਪਸ(apps) ਵਿਚ ਪਾਦੋ। ਜੇ ਤੁਸੀ ਨਈ ਪੋਂਦੇ, ਫ਼ੇਰ ਹਰੇਕ ਵਾਰੀ ਇਸ ਐਕਸਿਕਿਯੂਟਬਲ(executable) ਨੂੰ ਚਲੌਣਾ ਪੈਣਾ ਜਦੋਂ ਕੰਮਪਿਊਟਰ(computer) ਸਟਾਰਟਪ(startup) ਹੁੰਦੀ।
 
-  - **How to add it to startup:** right click while holding shift on the executable, click create shortcut, copy with ctrl+c. Hit windows +r and type shell:startup, hit enter. Paste in the shortcut with ctrl+v.
+  - **ਕਿਵੇਂ ਸਟਾਰਟਪ(startup) ਵਿੱਚ ਪੋਣਾ:** "Shift" ਨੂੰ ਦਬਾਉਂਦੇ ਹੋਏ, ਐਕਸਿਕਿਯੂਟਬਲ(executable) ਫ਼ਾਇਲ(file) ਦੇ ਉਤੇ ਸੱਜੇ ਕਲਿਕ(click) ਕਰੋ। "Create Shortcut" ਨੂੰ ਦੱਬੋ, ਸ਼ੋਰਟਕਟ(shortcut) ਫ਼ਾਇਲ(file) ਨੂੰ ਦਬਕੇ ctrl+c ਨਾਲ ਕਾਪੀ ਕਰੋ। Start Key+R ਦੱਬੋ, ਤੇ "shell:startup" ਲਿਖਕੇ "enter" ਦੱਬੋ।. Ctrl+V ਨਾਲ ਸ਼ੋਰਟਕਟ(shortcut) ਏਸ ਡਰੈਕਟਰੀ(directory) ਵਿੱਚ ਪੇਸਟ(paste) ਕਰੋ। 
 
-<ins>**Source:**</ins> If you wanna open the source file without downloading KLC, it'll work and open as a text file. The AHK source file will open with any text editor as well. 
+<ins>**ਸੋਰਸ(Source):**</ins> ਜੇ ਤੁਸੀ KLC ਇੰਸਟਾਲ(install) ਕਰਨ ਤੋਂ ਬਿਨਾ KLC ਸੋਰਸ(Source) ਫ਼ਾਇਲ(File) ਯਾ AHK ਸੋਰਸ(Source) ਨੂੰ ਖੋਲਣਾ ਚਾਹੁੰਦੇ, ਫ਼ੇਰ ਕੋਈ ਵੀ ਟੈਕਸਟ(text) ਐਡਿਟਰ(editor) ਨਾਲ ਖੋਲ ਸਕਦੇ। 
 
-AHK Offical Download (run ahk's directly; compile .ahk's to .exe's): https://autohotkey.com/download/ahk-v2.exe
+AHK Offical Download (.ahk files ਨੂੰ ਸਿੱਦੇ ਚਲੌਣ ਲਈ; .ahk ਨੂੰ .exe compile ਕਰਨ ਲਈ): https://autohotkey.com/download/ahk-v2.exe
 
-KLC Official Download (gives a GUI to the .klc; used to compile the .klc): https://download.microsoft.com/download/6/f/5/6f5ce43a-e892-4fd1-b9a6-1a0cbb64e6e2/MSKLC.exe 
+KLC Official Download (.klc ਨੂੰ GUI ਦੇਣ ਲਈ; .klc compile ਕਰਨ ਲਈ): https://download.microsoft.com/download/6/f/5/6f5ce43a-e892-4fd1-b9a6-1a0cbb64e6e2/MSKLC.exe 
 
+ਭੁੱਲਾਂ ਚੁਕਾਂ ਦੀ ਮਾੱਫ਼ੀ। 

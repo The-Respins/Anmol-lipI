@@ -1,6 +1,6 @@
 # ਅਨਮੋਲ ਲਿਪੀ
 
-![English README](https://github.com/The-Respins/Anmol-lipI/blob/main/README-PN.md)
+![English README](https://github.com/The-Respins/Anmol-lipI/blob/main/README-EN.md)
 
 ਮੈ ਇਸ ਪੰਜਾਬੀ(ਗੁਰਮੁਖੀ) ਦਾ ਕੀਬੋਰਡ(keyboard) ਬਣਾਇਆ ਤੇ ਸੋਚਿਆ ਕਿ ਮੈਂ ਇਨੂੰ ਸਾਂਝਾ ਈ ਕਰ ਦਿਵਾਂ। ਮੈ "ਅਨਮੋਲ ਲਿਪੀ" ਦਾ ਨਾਮ ਰੱਖਿਆ ਕਿਉਂਕੇ ਆਨਲਾਇਨ(online) ਏਸ ਕੀਬੋਰਡ(keyboard) ਲੇਐਉਟ(layout) ਨੂੰ ਇਂਦਾ ਈ ਆਖਦੇ ਆਂ। ¯\_(ツ)_/¯
  [ਵਿਚਾਰ: (ਕਲਿਕ(click) ਕਰੋ)](https://www.reddit.com/r/punjabi/comments/1hqlb9n/anmol_lippi_keyboard_for_your_convenience/)

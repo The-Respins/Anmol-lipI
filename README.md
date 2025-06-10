@@ -20,10 +20,12 @@ Shift States:
 
   - **ਕਿਵੇਂ ਸਟਾਰਟਪ(startup) ਵਿੱਚ ਪੋਣਾ:** "Shift" ਨੂੰ ਦਬਾਉਂਦੇ ਹੋਏ, ਐਕਸਿਕਿਯੂਟਬਲ(executable) ਫ਼ਾਇਲ(file) ਦੇ ਉਤੇ ਸੱਜੇ ਕਲਿਕ(click) ਕਰੋ। "Create Shortcut" ਨੂੰ ਦੱਬੋ, ਸ਼ੋਰਟਕਟ(shortcut) ਫ਼ਾਇਲ(file) ਨੂੰ ਦਬਕੇ ctrl+c ਨਾਲ ਕਾਪੀ ਕਰੋ। Start Key+R ਦੱਬੋ, ਤੇ "shell:startup" ਲਿਖਕੇ "enter" ਦੱਬੋ।. Ctrl+V ਨਾਲ ਸ਼ੋਰਟਕਟ(shortcut) ਏਸ ਡਰੈਕਟਰੀ(directory) ਵਿੱਚ ਪੇਸਟ(paste) ਕਰੋ। 
 
-<ins>**ਸੋਰਸ(Source):**</ins> ਜੇ ਤੁਸੀ KLC ਇੰਸਟਾਲ(install) ਕਰਨ ਤੋਂ ਬਿਨਾ KLC ਸੋਰਸ(Source) ਫ਼ਾਇਲ(File) ਯਾ AHK ਸੋਰਸ(Source) ਨੂੰ ਖੋਲਣਾ ਚਾਹੁੰਦੇ, ਫ਼ੇਰ ਕੋਈ ਵੀ ਟੈਕਸਟ(text) ਐਡਿਟਰ(editor) ਨਾਲ ਖੋਲ ਸਕਦੇ। 
+<ins>**ਸੋਰਸ(Source):**</ins> ਜੇ ਤੁਸੀ KLC ਇੰਸਟਾਲ(install) ਕਰਨ ਤੋਂ ਬਿਨਾ KLC ਸੋਰਸ(Source) ਫ਼ਾਇਲ(File) ਯਾਂ AHK ਸੋਰਸ(Source) ਨੂੰ ਖੋਲਣਾ ਚਾਹੁੰਦੇ, ਫ਼ੇਰ ਕੋਈ ਵੀ ਟੈਕਸਟ(text) ਐਡਿਟਰ(editor) ਨਾਲ ਖੋਲ ਸਕਦੇ। 
 
 AHK Offical Download (.ahk files ਨੂੰ ਸਿੱਦੇ ਚਲੌਣ ਲਈ; .ahk ਨੂੰ .exe compile ਕਰਨ ਲਈ): https://autohotkey.com/download/ahk-v2.exe
 
 KLC Official Download (.klc ਨੂੰ GUI ਦੇਣ ਲਈ; .klc compile ਕਰਨ ਲਈ): https://download.microsoft.com/download/6/f/5/6f5ce43a-e892-4fd1-b9a6-1a0cbb64e6e2/MSKLC.exe 
 
-ਭੁੱਲਾਂ ਚੁਕਾਂ ਦੀ ਮਾੱਫ਼ੀ। 
+ਭੁੱਲਾਂ ਚੁਕਾਂ ਦੀ ਮੁਆਫੀ।
+ਵਾਹਿਗੁਰੂ ਜੀ ਕਾ ਖਾਲਸਾ,
+ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫ਼ਤੇਹ।

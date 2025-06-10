@@ -15,8 +15,8 @@ Shift States:
 
 <ins>**[ਕੀਬੋਰਡ(Keyboard) ਇੰਸਟਾਲ(Install) ਲਈ:](https://github.com/The-Respins/Anmol-lipI/releases/tag/Keyboard-Installer)**</ins> ਪ੍ਰਾਸੈਸਰ(processor) ਦੇ ਨਾਮ(ਜਿੰਦਾ Intel, AMD, ect) ਜੇੜੇ MSI ਫ਼ਾਇਲਾਂ(files) ਤੇ ਲਿਖੇ, ਅਸਲ'ਚ ਸਰਿਫ਼ ਓਹ ਪ੍ਰਾਸੈਸਰਾਂ(processors) ਲਈ ਨਈ ਹਨ। ਉਦਾਰਹਨ ਵਜੋਂ, ਮੇਰੇ ਕੋਲ ਇੰਟਲ(Intel) ਦਾ ਪ੍ਰਾਸੈਸਰ(processor) ਹੈਗਾ, ਪਰ ਮੇਰੇ ਲਈ ਸਰਿਫ਼ AMD ਵਾਲਾ ਚਲਦਾ। ਪਹਿਲੋਂ ਸਾਰੇ MSI's ਚਲਾਕੇ ਦੇਖੋ, ਜੇ ਓਹ ਕੰਮ ਨਈ ਓਂਦੇ ਤੇ ਫ਼ੇਰ exe's ਚਲਾਓ। ਜੇ ਤੁਸੀ MAC ਯਾ ਲਿਨਿਕਸ(Linux) ਆਪ੍ਰੇਟਿੰਗ(operating) ਸਿਸਟਮਾਂ(systems) ਵਰਤਦੇ ਹਨ, ਫ਼ੇਰ ਕੋਈ ਕੀਬੋਰਡ(keyboard) ਐਪਲਿਕੇਸ਼ਨ(application) ਲਭੋ ਜੇੜਾ KLC ਫ਼ਾਇਲ(file) ਰੂਪ ਵਰਤ ਸਕੇ। ਜੇੜਾ ਐਕਸਿਕਿਯੂਟਬਲਾਂ(executables) ਹੈਗੇ, ਓਹ ਸਰਿਫ਼ ਵਿੰਦੋਜ਼(windows) ਨਾਲ ਚਲਦੇ।
 
-<ins>**[ਮਾਤ੍ਰਾਂ ਪੈਚ(Patch):](https://github.com/The-Respins/Anmol-lipI/releases/tag/Matra-Patch)**</ins> AHK ਐਕਸਿਕਿਯੂਟਬਲ(executable) ਨੂਂ ਜ਼ਰੂਰ ਡੈਉਨਲੋਡ(download) ਕਰਕੇ ਚਲਾਉ, ਤਾਂ ਕੇ "ੳੋ" ਤੇ "ਅਾ"(ਸਾਰੇ ਅੱਖਰਾਂ ਮੁਹਾਰਨੀ ਦੀ ੧ ਲਕੀਰ ਵਿੱਚ) ਵਾਲੇ ਗਲਤੀਆਂ ਨਾ ਹੋਵੇ। ਏਹ ਗਲਤ ਰੈਂਡਰਿੰਗ(rendering) ਬਹੁਮਤ ਸਾਰੇ ਪ੍ਰੋਗ੍ਰੈਮਾਂ(programs) ਵਿੱਚ ਲਭੁਂਗੇ, ਜੇੜੇ ਗੁਰਮੁਖੀ ਨੂਂ ਰੈਂਡਰ(render) ਕਰ ਸਕਦੇ। 
-ਮੈ ਸਿਫ਼ਾਰਸ ਕਰਦਾ ਕਿ ਇਸ ਐਕਸਿਕਿਯੂਟਬਲ(executable) ਨੂੰ ਸਟਾਰਟਪ(startup) ਐਪਸ(apps) ਵਿਚ ਪਾਦੋ। ਜੇ ਤੁਸੀ ਨਈ ਪੋਂਦੇ, ਫ਼ੇਰ ਹਰੇਕ ਵਾਰੀ ਇਸ ਐਕਸਿਕਿਯੂਟਬਲ(executable) ਨੂੰ ਚਲੌਣਾ ਪੈਣਾ ਜਦੋਂ ਕੰਮਪਿਊਟਰ(computer) ਸਟਾਰਟਪ(startup) ਹੁੰਦੀ।
+<ins>**[ਮਾਤ੍ਰਾਂ ਪੈਚ(Patch):](https://github.com/The-Respins/Anmol-lipI/releases/tag/Matra-Patch)**</ins> AHK ਐਕਸਿਕਿਯੂਟਬਲ(executable) ਨੂਂ ਜ਼ਰੂਰ ਡੈਉਨਲੋਡ(download) ਕਰਕੇ ਚਲਾਉ, ਤਾਂ ਕੇ "ੳੋ" ਤੇ "ਅਾ"(ਸਾਰੇ ਅੱਖਰਾਂ ਮੁਹਾਰਨੀ ਦੀ ਪਹਿਲੀ ਪੰਗਤੀ) ਵਾਲੇ ਗਲਤੀਆਂ ਨਾ ਹੋਵੇ। ਏਹ ਗਲਤ ਰੈਂਡਰਿੰਗ(rendering) ਬਹੁਮਤ ਸਾਰੇ ਪ੍ਰੋਗ੍ਰੈਮਾਂ(programs) ਵਿੱਚ ਲਭੁੰਗੇ, ਜੇੜੇ ਗੁਰਮੁਖੀ ਨੂਂ ਰੈਂਡਰ(render) ਕਰਦੇ। 
+ਮੈ ਸਿਫ਼ਾਰਸ ਕਰਦਾ ਕਿ ਇਸ ਐਕਸਿਕਿਯੂਟਬਲ(executable) ਨੂੰ ਸਟਾਰਟਪ(startup) ਐਪਸ(apps) ਵਿਚ ਪਾਓ। ਜੇ ਤੁਸੀ ਨਈ ਪੋਂਦੇ, ਫ਼ੇਰ ਹਰੇਕ ਵਾਰੀ ਇਸ ਐਕਸਿਕਿਯੂਟਬਲ(executable) ਨੂੰ ਚਲੌਣਾ ਪੈਣਾ ਜਦੋਂ ਕੰਮਪਿਊਟਰ(computer) ਸਟਾਰਟਪ(startup) ਹੁੰਦੀ।
 
   - **ਕਿਵੇਂ ਸਟਾਰਟਪ(startup) ਵਿੱਚ ਪੋਣਾ:** "Shift" ਨੂੰ ਦਬਾਉਂਦੇ ਹੋਏ, ਐਕਸਿਕਿਯੂਟਬਲ(executable) ਫ਼ਾਇਲ(file) ਦੇ ਉਤੇ ਸੱਜੇ ਕਲਿਕ(click) ਕਰੋ। "Create Shortcut" ਨੂੰ ਦੱਬੋ, ਸ਼ੋਰਟਕਟ(shortcut) ਫ਼ਾਇਲ(file) ਨੂੰ ਦਬਕੇ ctrl+c ਨਾਲ ਕਾਪੀ ਕਰੋ। Start Key+R ਦੱਬੋ, ਤੇ "shell:startup" ਲਿਖਕੇ "enter" ਦੱਬੋ।. Ctrl+V ਨਾਲ ਸ਼ੋਰਟਕਟ(shortcut) ਏਸ ਡਰੈਕਟਰੀ(directory) ਵਿੱਚ ਪੇਸਟ(paste) ਕਰੋ। 
 

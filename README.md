@@ -27,5 +27,7 @@ AHK Offical Download (.ahk files ਨੂੰ ਸਿੱਦੇ ਚਲੌਣ ਲਈ; 
 KLC Official Download (.klc ਨੂੰ GUI ਦੇਣ ਲਈ; .klc compile ਕਰਨ ਲਈ): https://download.microsoft.com/download/6/f/5/6f5ce43a-e892-4fd1-b9a6-1a0cbb64e6e2/MSKLC.exe 
 
 ਭੁੱਲਾਂ ਚੁਕਾਂ ਦੀ ਮੁਆਫੀ।
-ਵਾਹਿਗੁਰੂ ਜੀ ਕਾ ਖਾਲਸਾ,
+
+ਵਾਹਿਗੁਰੂ ਜੀ ਕਾ ਖਾਲਸਾ, 
+
 ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫ਼ਤੇਹ।

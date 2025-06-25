@@ -26,3 +26,4 @@ AHK Offical Download (run ahk's directly; compile .ahk's to .exe's): https://aut
 
 KLC Official Download (gives a GUI to the .klc; used to compile the .klc): https://download.microsoft.com/download/6/f/5/6f5ce43a-e892-4fd1-b9a6-1a0cbb64e6e2/MSKLC.exe 
 
+Please forgive any mistakes. 
